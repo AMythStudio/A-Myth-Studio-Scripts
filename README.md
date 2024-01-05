@@ -1,5 +1,5 @@
 # A-Myth-Studio-Scripts
-Welcome to the GitHub page for our roblox group: A Myth Studio! Here are examples of scripts used to make our game function.
+Welcome to the GitHub page for our roblox group: A Myth Studio! Here are samples of various scripts used to make our game function.
 
 
 
