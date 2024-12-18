@@ -1,7 +1,8 @@
 # A-Myth-Studio-Scripts
-Welcome to the GitHub page for our roblox group: A Myth Studio! Here are samples of various scripts used to make our game function.
+Welcome to the GitHub page for our roblox group: A Myth Studio! Here are samples of scripts used to make our game "Cool Mega Obby" function.
 
-
+LINK TO THE GAME:
+https://www.roblox.com/games/12245168824/Cool-Mega-Obby-300-Stages
 
 
 
